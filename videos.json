@@ -8,5 +8,15 @@
     "titre": "Pyrolyse",
     "lien": "https://youtu.be/-9GZipyxD58",
     "integration": "https://www.youtube-nocookie.com/embed/-9GZipyxD58"
+  },
+  "p01_c06_v01": {
+    "titre": "Feu de méthanol : une flamme invisible",
+    "lien": "https://youtu.be/1KNZScTJhQc",
+    "integration": "https://www.youtube-nocookie.com/embed/1KNZScTJhQc"
+  },
+  "p01_c06_v02": {
+    "titre": "Les couleurs des flammes",
+    "lien": "https://youtu.be/ENvPDmwhUho",
+    "integration": "https://www.youtube-nocookie.com/embed/ENvPDmwhUho"
   }
 }
