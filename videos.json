@@ -33,5 +33,20 @@
     "titre": "Salon moderne contre salon ancien",
     "lien": "https://youtu.be/xQdtqeui2Mc",
     "integration": "https://www.youtube-nocookie.com/embed/xQdtqeui2Mc"
+  },
+  "p02_c02_v01": {
+    "titre": "Feu en caisson, filmé à 360°",
+    "lien": "https://youtu.be/Fh_SV8M0hqk",
+    "integration": "https://www.youtube-nocookie.com/embed/Fh_SV8M0hqk"
+  },
+  "p02_c02_v02": {
+    "titre": "Salon en feu, avec et sans sprinkler",
+    "lien": "https://youtu.be/jawX4A4paps",
+    "integration": "https://www.youtube-nocookie.com/embed/jawX4A4paps"
+  },
+  "p02_c04_v01": {
+    "titre": "Contrôle de porte : limiter l'air, limiter le feu",
+    "lien": "https://youtu.be/ePZlgpDbn_0",
+    "integration": "https://www.youtube-nocookie.com/embed/ePZlgpDbn_0"
   }
 }
