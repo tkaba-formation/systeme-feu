@@ -48,5 +48,15 @@
     "titre": "Contrôle de porte : limiter l'air, limiter le feu",
     "lien": "https://youtu.be/ePZlgpDbn_0",
     "integration": "https://www.youtube-nocookie.com/embed/ePZlgpDbn_0"
+  },
+  "p02_c05_v01": {
+    "titre": "EGE induit par le cassage d'une fenêtre",
+    "lien": "https://youtu.be/rquFhj0xrfI",
+    "integration": "https://www.youtube-nocookie.com/embed/rquFhj0xrfI"
+  },
+  "p02_c05_v02": {
+    "titre": "EGE induit par VPP",
+    "lien": "https://youtu.be/qI1kETkL-C8",
+    "integration": "https://www.youtube-nocookie.com/embed/qI1kETkL-C8"
   }
 }
