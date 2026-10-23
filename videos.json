@@ -78,5 +78,25 @@
     "titre": "Feu de friteuse : de l'eau sur l'huile en feu",
     "lien": "https://youtu.be/5s6IOa_8tSY",
     "integration": "https://www.youtube-nocookie.com/embed/5s6IOa_8tSY"
+  },
+  "p03_c04_v01": {
+    "titre": "Démonstration de BLEVE",
+    "lien": "https://youtu.be/kGZ1YhCdp3w",
+    "integration": "https://www.youtube-nocookie.com/embed/kGZ1YhCdp3w"
+  },
+  "p03_c04_v02": {
+    "titre": "BLEVE d'un camion-citerne de GPL à Bologne",
+    "lien": "https://youtu.be/c9ruzfQXslg",
+    "integration": "https://www.youtube-nocookie.com/embed/c9ruzfQXslg"
+  },
+  "p03_c05_v01": {
+    "titre": "Un nuage de gaz s'enflamme dans la rue (Corée du Sud)",
+    "lien": "https://youtu.be/H7HBgxeImJk",
+    "integration": "https://www.youtube-nocookie.com/embed/H7HBgxeImJk"
+  },
+  "p03_c05_v02": {
+    "titre": "Camion de GPL renversé : le nuage s'enflamme (Santiago, 2026)",
+    "lien": "https://youtube.com/shorts/rMqL6VJ9n_4",
+    "integration": "https://www.youtube-nocookie.com/embed/rMqL6VJ9n_4"
   }
 }
